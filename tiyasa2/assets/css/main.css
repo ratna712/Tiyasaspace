@@ -133,7 +133,7 @@ input, select, textarea {
 		font-weight: 400;
 		padding: 0;
 		font-size: 13pt;
-		color: rgba(85,107,47);
+		color: rgba(255,255,0,0.3);
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -181,8 +181,8 @@ input, select, textarea {
 	}
 
 	strong, b {
-		color: ##ffff00;
-		color: rgba(255,255,0,1);
+		color: #fff;
+		color: rgba(255, 255, 255, 0.85);
 		font-weight: 600;
 	}
 
